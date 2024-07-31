@@ -1,0 +1,12 @@
+.~lock.metrics_thesholds_segmentation_for_classification_0.5.csv#
+plots/
+models/
+.venv/
+testset/
+.~lock.metrics.csv#
+.~lock.metrics_thresholds_classification.csv#
+metrics_thesholds_segmentation_for_classification_0.5.csv
+metrics_thresholds_classification.csv
+metrics.csv
+Pectoralis (CC) .csv
+requirements.txt
